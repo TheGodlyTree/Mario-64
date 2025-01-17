@@ -6,7 +6,7 @@
  
     EJS_player = '#game';
     EJS_core = 'n64';  
-    EJS_gameUrl = 'game file name';
+    EJS_gameUrl = 'SM64.z64';
     EJS_pathtodata = 'https://cdn.jsdelivr.net/gh/ethanaobrien/emulatorjs@main/data/';
  
 </script>
